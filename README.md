@@ -67,30 +67,6 @@
 
 ---
 
-### 📜 Certifications
-
-- 🏅 **Full Stack Development** — HCL GUVI *(Feb 2026)*
-- 📊 **Data Analytics Job Simulation** — Deloitte Australia via Forage *(Jul 2025)*
-
----
-
-### 🏆 Highlights
-
-- 🛸 Participated in **Bharatiya Antariksh Hackathon 2025**
-- 👩‍💻 Attended **Build with AI (Noida Edition)** — TFUG Ghaziabad
-- 🌸 Speaker event: **Redefine Possible – Women in Tech 2025**, GDG Noida × WTM Delhi
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahak574&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak574&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>"The best way to predict the future is to build it."</i><br/>
   <b>— Always open to collaborating on AI/ML projects. Let's connect! 🤝</b>
