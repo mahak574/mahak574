@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd-year B.Tech CSE student at **DCRUST, Murthal (Sonipat)**
+- 🎓 final year B.Tech CSE student at **DCRUST, Murthal (Sonipat)**
 - 🔭 Currently working on **ML systems, NLP pipelines, and AI agents**
 - 🌱 Deepening knowledge in **Deep Learning, LLMs, and ML System Design**
 - 💡 I like turning complex problems into clean, working solutions
