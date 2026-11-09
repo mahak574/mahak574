@@ -8,7 +8,7 @@
   <a href="mailto:mahaks2402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mahak-portfolio-ten.vercel.app" target="_blank">
+  <a href="https://mahak-portfolio-eight.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
